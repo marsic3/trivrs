@@ -15,7 +15,6 @@
     <a href="/">
       <Logo
         class="h-full dark:text-white text-black"
-        title="Stormix - Anas Mazouni"
       />
     </a>
     <div class="h-full cursor-pointer">

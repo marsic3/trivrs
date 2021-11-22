@@ -12,12 +12,12 @@
         {
           label: 'Linkedin',
           icon: 'fab fa-linkedin-in',
-          url: 'https://www.linkedin.com/in/anasmazouni/',
+          url: 'https://www.linkedin.com/in/milos-arsic-292b49142/',
         },
         {
           label: 'Instagram',
           icon: 'fab fa-instagram',
-          url: 'https://www.instagram.com/stormix.co/',
+          url: 'https://www.instagram.com/trivtrade/',
         },
       ]
 
